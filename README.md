@@ -13,7 +13,7 @@ A mon actif :<br><br>
  👼  Mon [projet d'année A1](https://github.com/albanledev/final-site-A1), site web consistant à vendre des couches culottes connectés. Ne rigolez pas, il y a un vrai marché<br>
  💆  Site de [Spirale](https://github.com/albanledev/spirale-association), association développant le bien-être des clients grâce à la relaxation active ( du yoga pas très connu )<br>
  
-## Mes projets
+
 
 
 Sur ce, je retourne au combat... <br><br>
