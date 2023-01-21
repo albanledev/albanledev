@@ -9,9 +9,9 @@ Alban de Braquilanges pour vous servir, étudiant en 2ème année dans le secteu
 
 Curieux de compétences diverses et variées dans le Coding, je **conçois** et **crée** différents sites web en me laissant carte blanche sur la **créativité**.
 A mon actif :<br><br>
- 💀  Un site [logiciel de cryptage de données](https://github.com/albanledev/logiciel-de-cryptage) ( Ne me jetez point l'opprobre le display:flex m'était inconnue <br>
- 👼  Mon [projet d'année A1](https://github.com/albanledev/final-site-A1), site web consistant à vendre des couches culottes connectés. Ne rigolez pas, il y a un vrai marché<br>
- 💆  Site de [Spirale](https://github.com/albanledev/spirale-association), association développant le bien-être des clients grâce à la relaxation active ( du yoga pas très connu )<br>
+ 🎨  Mon [Portfolio](https://albanledev.github.io/DEVLAB-1/) , regroupant mes créations, mon profil et mes compétences <br>
+ 🎥  Mon [Site de streaming](https://github.com/albanledev/DEVLAB-2), site web utilisant l'Api the Movie DB répertoriant un large panel de films avec une grande partie back-end<br>
+ 💆  Site de [Spirale](https://github.com/albanledev/association-spirale-V2), association développant le bien-être des clients grâce à la relaxation active ( du yoga pas très connu )<br>
  
 
 
